@@ -3,7 +3,7 @@
 A Python package to extract and format documentation from Terraform Registry resources.
 
 [![Python Version](https://img.shields.io/badge/python-3.7%2B-blue.svg)](https://www.python.org/downloads/)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![License](https://img.shields.io/badge/license-Proprietary-red.svg)](LICENSE)
 
 ## Features
 
@@ -235,17 +235,17 @@ Domain-specific extractors with enhanced formatting:
 - Multiple section handling
 - Custom heading levels
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+Copyright (c) 2025 NPLabs. All rights reserved.
+
+This is proprietary software owned by NPLabs. Unauthorized copying, modification,
+distribution, or use of this software is strictly prohibited. See the LICENSE
+file for full terms and conditions.
 
 ## Author
 
-Ido Machlevsky
+NPLabs
 
 ## Repository
 
